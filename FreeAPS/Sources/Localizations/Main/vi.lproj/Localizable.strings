@@ -3706,23 +3706,23 @@ Enact a temp Basal or a temp target */
 
 "Your iAPS build expires on %1$@ (%2$d days remaining). TestFlight builds must be renewed every 90 days." = "Bản dựng iAPS của bạn sẽ hết hạn vào %1$@ (còn %2$d ngày). Các bản dựng TestFlight phải được gia hạn sau 90 ngày.";
 
-"Cancel temp" = "Cancel temp";
+"Cancel temp" = "Hủy liều nền tạm";
 
-"No " = "No ";
-"%.1f× serving" = "%.1f× serving";
-"Edit Portion" = "Edit Portion";
+"No " = "Không ";
+"%.1f× serving" = "%.1f × khẩu phần";
+"Edit Portion" = "Chỉnh sửa phần";
 "Remove from meal" = "Remove from meal";
-"Discard Meal?" = "Discard Meal?";
-"Discard Meal" = "Discard Meal";
-"Nutrient" = "Nutrient";
-"Add Micronutrient" = "Add Micronutrient";
-"Added" = "Added";
+"Discard Meal?" = "Hủy bữa ăn?";
+"Discard Meal" = "Hủy bữa ăn";
+"Nutrient" = "Chất dinh dưỡng";
+"Add Micronutrient" = "Thêm vi chất dinh dưỡng";
+"Added" = "Đã thêm";
 "%d micros" = "%d micros";
-"Fiber • %d" = "Fiber • %d";
+"Fiber • %d" = "Chất xơ • %d";
 
 "Target Glucose" = "Đường huyết mục tiêu";
-"AI is still thinking…" = "AI is still thinking…";
-"AI service error (code: %d)" = "AI service error (code: %d)";
+"AI is still thinking…" = "AI vẫn đang xử lý…";
+"AI service error (code: %d)" = "Lỗi dịch vụ AI (mã lỗi: %d)";
 "APS" = "APS";
 "Absolute Safety TBR" = "Absolute Safety TBR";
 "Additional details for AI..." = "Additional details for AI...";
@@ -3787,7 +3787,7 @@ Enact a temp Basal or a temp target */
 "SMBs and High Temps Disabled." = "SMBs and High Temps Disabled.";
 "Saving image..." = "Saving image...";
 "Searching for images..." = "Searching for images...";
-"Searching..." = "Searching...";
+"Searching..." = "Đang tìm kiếm...";
 "Select and edit a photo from your library" = "Select and edit a photo from your library";
 "Server error (%d)" = "Server error (%d)";
 "Shared App Group CGM" = "Shared App Group CGM";
@@ -3801,8 +3801,8 @@ Enact a temp Basal or a temp target */
 "Undo" = "Undo";
 "Upload Previous Day's Log" = "Upload Previous Day's Log";
 "Use Clipboard Image" = "Use Clipboard Image";
-"Use Image" = "Use Image";
-"Use Now" = "Use Now";
+"Use Image" = "Sử dụng hình ảnh";
+"Use Now" = "Sử dụng ngay";
 "\(Int(progress.percent.rounded())) %" = "\\(Int(progress.percent.rounded())) %";
 "\(imageURLs.count) images" = "\\(imageURLs.count) images";
 "\(lastLoopMinutesAgo) " = "\\(lastLoopMinutesAgo) ";
@@ -3815,4 +3815,4 @@ Enact a temp Basal or a temp target */
 "iAPS needs camera access to scan barcodes. Please enable it in Settings." = "iAPS needs camera access to scan barcodes. Please enable it in Settings.";
 "too small temp basal amount" = "too small temp basal amount";
 "⚠️ Warning! The entered insulin amount is greater than your Max Bolus setting!" = "⚠️ Warning! The entered insulin amount is greater than your Max Bolus setting!";
-" Target Glucose" = " Target Glucose";
+" Target Glucose" = " Đường huyết mục tiêu";
